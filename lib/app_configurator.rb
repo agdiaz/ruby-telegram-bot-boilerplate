@@ -5,11 +5,11 @@ require './lib/database_connector'
 class AppConfigurator
   def configure
     setup_i18n
-    setup_database
+    # setup_database
   end
 
   def get_token
-    YAML::load(IO.read('config/secrets.yml'))['telegram_bot_token']
+    YAML::load(IO.read('./config/secrets.yml'))['telegram_bot_token']
   end
 
   def get_logger

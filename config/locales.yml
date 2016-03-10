@@ -1,3 +1,14 @@
 en:
-  greeting_message: "Hi! Telegram is awesome!"
-  farewell_message: "Bye! I'll miss you :("
+  greeting_message: "Hola princesa!!!¿En que puedo ayudarte?\nTe doy una pista de que escribir:\n"
+  help_message: "/felfa para asuntos de osos\n/missyou si andas con extrañitis\n/cat un_nombre (Por ej. '/cat swei)para sugerirme un nombre para el futuro miembro del clan\n/seeyou para saber cuando nos vemos\n/stop para terminar la conversación"
+  wtf_message: "Momento que soy lento... Que dijiste? Te repito las pistas?"
+  felfa_message: "🐻Se dice felpa!!! jajaj"
+  farewell_message: "Bueno chau grrr. Pero... No te olvides lo que vamos a hacer esta noche cerebro...\nhttp://25.media.tumblr.com/fff1cd7013a0d764c46e56a14f90bd48/tumblr_mo36f9WggJ1sul56oo1_500.gif"
+  not_allowed_user_message: "I don't want to talk with you... Bye!"
+  missyou_message: "Ahww\u2764\nAdivina a quien le gustas?\nhttp://24.media.tumblr.com/tumblr_l3rg92AI6M1qbw9x6o1_500.gif"
+  seeyou_message: "Bueno, pensa que el proximo jueves es el  %{time_left} y nos veamos"
+  
+  cat_angry_name: "No te pases de viva que te estoy filmando 😧"
+  cat_short_name: "Muy corto"
+  cat_long_name: "Muy laaaaaargo, aguantaaaa"
+  cat_okey_name: "Ojo eh... Le vamos a tener que avisar al jefecito: @adre89 aca daniela propone: %{name}"
